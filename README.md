@@ -4,7 +4,7 @@ yAZdIQLarInızI OToMAtİq olaRaQ Bu ShEqİLE ÇeWirİr. aRTıQ SiZ De Hiç EfOR 
 
 
 # Installation
-Binaries kısmından en son sürümü indirip arşivden çıkardıktan sonra .exe'yi açmanız yeterli.
+Sağdaki menüden Releases kısmındaki en son sürümü indirip arşivden çıkardıktan sonra .exe'yi açmanız yeterli.
 
 
 # Usage
