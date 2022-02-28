@@ -8,4 +8,6 @@ Download the latest release and run it!
 
 
 # Usage
-to enable/disable use ctrl + f1 combination
+- run .exe file 
+- press ctrl + f1 to activate 
+- AnD TYpE wHatEVEr yOu wANt JuSt LikE thIS
