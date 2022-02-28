@@ -1,11 +1,11 @@
-# hAwaLi-pRoqRaMmm
+# Sarcasm Switch
 
-yAZdIQLarInızI OToMAtİq olaRaQ Bu ShEqİLE ÇeWirİr. aRTıQ SiZ De Hiç EfOR SaRfeTMedEn bENiM QiBi hAwAlİ YaZaBilİrSinİz.
+Simple app to auto convert your words into sarcasm-like words instantly. 
 
 
 # Installation
-Sağdaki menüden Releases kısmındaki en son sürümü indirip arşivden çıkardıktan sonra .exe'yi açmanız yeterli.
+Download the latest release and run it!
 
 
 # Usage
-Yazma modunu açmak ve kapamak için ctrl + f1 kombinasyonunu kullanabilirsiniz.
+to enable/disable use ctrl + f1 combination
